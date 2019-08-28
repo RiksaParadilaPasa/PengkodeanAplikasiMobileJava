@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_nama"
+        android:title="Nama"></item>
+    <item
+        android:id="@+id/item_luas"
+        android:title="HitungLuas"></item>
+    <item
+        android:id="@+id/item_cal"
+        android:title="Kalkulator"></item>
+    <item
+        android:id="@+id/item_suhu"
+        android:title="KonversiSuhu"></item>
+    <item
+        android:id="@+id/item_cals"
+        android:title="Kalkulators"></item>
+
+
+</menu>
